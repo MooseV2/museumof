@@ -1,7 +1,7 @@
 languageCode = "en-us"
-title = "Massively"
-baseURL = "https://hugo-theme-massively.netlify.com/"
-theme = "hugo-theme-massively"
+title = "Museum of Brick"
+baseURL = "http://localhost:1313/"
+theme = "brick"
 googleanalytics = ""
 disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
@@ -16,17 +16,13 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 # [params.posts]
 #     folderName = "post"
 #     pageSize = "6"
-#     featuredPost = "true"
+#     featuredPost = true
 #     paginationPages = 2
 #     showFirstLast = false
-
+ 
 [languages]
 [languages.en]
   languageName = "English"
-[languages.es]
-  languageName = "Español"
-  title = "Massively - Versión Español"
 #[languages.fr]
 #  languageName = "Français"
 #  title = "Massively - Version Française"
-
