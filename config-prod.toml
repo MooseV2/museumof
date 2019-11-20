@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Museum of Brick"
-baseURL = "http://localhost:1313/"
+baseURL = "https://museumof.ca/"
 theme = "brick"
 googleanalytics = ""
 disqusShortname = ""
