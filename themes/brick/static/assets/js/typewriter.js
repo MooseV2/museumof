@@ -9,7 +9,7 @@ new TypeIt('#introdesc', {
   startDelay: 900,
   loop: true
 })
-.type('<em>/\'brik/, <strong>noun</strong></em>')
+.type('<em>/\'brik/, <strong>noun;   </strong></em>')
 .pause(1000)
 .type('<br>')
 .pause(300)
