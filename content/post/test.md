@@ -1,7 +1,7 @@
 +++
 title = 'testpage'
 slug = 'test'
-image = '/img/brick-design-jam.jpg'
+image = '/img/IMG_8546.JPG'
 date = "2020-01-18T12:15:00"
 disableComments = true
 +++
