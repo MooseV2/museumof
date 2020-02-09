@@ -1,6 +1,6 @@
 +++
 title = 'About'
-slug = 'test'
+slug = 'About'
 date = "2020-02-09T12:15:00"
 disableComments = true
 +++
