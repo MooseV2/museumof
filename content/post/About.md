@@ -18,4 +18,4 @@ for interaction between people, concepts and tools that inspire critical
 thinking, creativity and relationship building across demographics. 
 
 # Why is there reference to a Museum of Brick on the first page?
-Museum of Brick is the first in a series of activations from Museum.Of.  It could have been another word that we chose to play with, but we felt that given Toronto's buildings are mostly made of brick, it would be easier to draw a parallel to the various venues that could house a museum about the word "brick".  We prototyped what this museum could look like at a design jam ("https://museumof.ca/post/post/") we held in November 2019. 
+Museum of Brick is the first in a series of activations from Museum.Of.  It could have been another word that we chose to play with, but we felt that given Toronto's buildings are mostly made of brick, it would be easier to draw a parallel to the various venues that could house a museum about the word "brick".  We prototyped what this museum could look like at a [design jam] (https://museumof.ca/post/post/) we held in November 2019. 
