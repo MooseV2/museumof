@@ -16,7 +16,7 @@ Sections include;
 
 ## ARE YOU IN!?
 
-A) Great. It'll be fun. "[Register](https://www.eventbrite.ca/e/museum-of-brick-design-jam-registration-80228069315)" so we can plan for food, etc.
+A) Great. It'll be fun. [Register](https://www.eventbrite.ca/e/museum-of-brick-design-jam-registration-80228069315) so we can plan for food, etc.
 
 B) The Design Jam will take place at [CSI Annex](https://socialinnovation.org/location/csi-annex/), located at 720 Bathurst Street (Toronto, ON J4Y 0K7) in the Ground Floor Meeting Room (June's Room).
 
