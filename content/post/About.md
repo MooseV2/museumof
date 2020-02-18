@@ -3,6 +3,7 @@ title = 'About'
 slug = 'About'
 date = "2020-02-09T12:15:00"
 disableComments = true
+linktext = Find Out More
 +++
 
 Museum.Of aims to facilitate opportunities for interaction between people, concepts and tools that inspire critical thinking, creativity and relationship building across demographics. We believe that shared experiences like these will elevate the social capital and cohesion of our city.
