@@ -3,7 +3,7 @@ title = "Museum of Brick"
 baseURL = "https://museumof.ca/"
 theme = "brick"
 googleanalytics = ""
-disqusShortname = ""
+disqusShortname = "museumof"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [permalinks]
