@@ -3,7 +3,7 @@ title = 'Brick Design Jam'
 slug = 'post'
 image = '/img/brick-design-jam.jpg'
 date = "2019-11-24T10:00:00"
-disableComments = true
+disableComments = false
 +++
 Analyzing something from multiple perspectives is a foundational skill of healthy societies in the 21st century. The Museum of Brick will explore the word "brick" from multiple perspectives in the format of an interactive exhibit (pop-up museum). Activities in each section of the museum will provide opportunities for people to critically explore a subject while developing professional skills and new relationships.
 This design jam will prompt groups to build out an installation for one section of the museum. 
